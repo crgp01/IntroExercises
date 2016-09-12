@@ -17,6 +17,7 @@ Triangle Exercises
         7. Given a number n, print n lines, each with one more asterisk than the last (i.e. one on the first line, two on the second,etc.) 
 
 Diamond Exercises
+
         1. Isosceles Triangle
         
         2. Given a number n, print a centered triangle. Example for n=3:
