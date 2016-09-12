@@ -3,13 +3,6 @@
  */
 import java.util.*;
 public class PrimeFactors {
-    public static void main(String[] args) {
-
-        PrimeFactors pf = new PrimeFactors();
-        pf.primeFactorsList(10);
-
-    }
-
 
 
     public ArrayList<Integer> primeFactorsList(int number) {

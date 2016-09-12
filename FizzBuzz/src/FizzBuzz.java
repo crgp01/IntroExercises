@@ -3,13 +3,6 @@
  */
 public class FizzBuzz {
 
-    public static void main(String[] args) {
-
-        FizzBuzz fb = new FizzBuzz();
-        fb.fizzBuzz();
-
-
-    }
 
     public void fizzBuzz(){
 
@@ -17,7 +10,7 @@ public class FizzBuzz {
         for (int i=1; i<=100; i++){
 
             if ((divisibleByThree(i)==0) && (divisibleByFive(i)==0))
-                   {
+            {
                 System.out.println("FizzBuzz");
 
             }

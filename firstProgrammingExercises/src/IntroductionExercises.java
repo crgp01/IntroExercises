@@ -6,29 +6,11 @@ public class IntroductionExercises {
 
 
 
-    public static void main (String[] args)
-    {
 
-        IntroductionExercises ej1 = new IntroductionExercises();
-
-                ej1.PrintOneAsterisk();
-        ej1.Separator();
-        ej1.PrintOneAsteriskHorizontalLine(3);
-        ej1.Separator();
-        ej1.PrintOneAsteriskVerticalLine(3);
-        ej1.Separator();
-        ej1.RightTriangle(3);
-        ej1.Separator();
-        ej1.IsocelesTriangle(4);
-        ej1.Separator();
-        ej1.Diamond(3);
-        ej1.Separator();
-        ej1.DiamondName(4);
-    }
 
     public void Separator(){
 
-        System.out.println("\n-----------------");
+        System.out.println("\n-----------------\n");
     }
 
     public void PrintOneAsterisk(){
